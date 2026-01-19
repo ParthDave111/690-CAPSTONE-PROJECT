@@ -1,4 +1,51 @@
 # 690-CAPSTONE-PROJECT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Contributors
+
+## Team Members
+- [Name 1] - [Role/Responsibilities]
+- [Name 2] - [Role/Responsibilities]
+- [Name 3] - [Role/Responsibilities]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---- How to Set up Project ------
 Project on LLM council 
  🚀 OPENROUTER.AI QUICK START GUIDE
     
