@@ -27,7 +27,8 @@
 To test the code, please run it on Google Colab 
 
 
-
+Link for buy/hold/sell decesion for single stock:
+Linkf for LLM council for portfolio management: 
 
 
 
