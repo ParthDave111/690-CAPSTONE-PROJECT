@@ -16,9 +16,9 @@
 # Contributors
 
 ## Team Members
-- [Name 1] - [Role/Responsibilities]
-- [Name 2] - [Role/Responsibilities]
-- [Name 3] - [Role/Responsibilities]
+- Parth Dave parth.dave.ca@gmail.com
+- Yeshwant Kumar Gulla - gullayeshwantkumarruler@gmail.com
+- Rishish Sri Mourya Reddy Mekhala - ritishmourya729@gmail.com
 
 
 
