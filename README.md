@@ -28,7 +28,9 @@ To test the code, please run it on Google Colab
 
 
 Link for buy/hold/sell decesion for single stock: [Here](https://github.com/ParthDave111/690-CAPSTONE-PROJECT/blob/main/LLMcouncil_Single_stock.ipynb)
-Linkf for LLM council for portfolio management: 
+
+
+Link for LLM council for portfolio management: [Here](https://github.com/ParthDave111/690-CAPSTONE-PROJECT/blob/main/LLM_portfolio_with_prompt.ipynb)
 
 
 
